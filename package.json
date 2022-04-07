@@ -61,7 +61,7 @@
     "@segment/analytics-react-native": "^0.1.0-beta.0",
     "@tradle/react-native-http": "^2.0.0",
     "assert": "^1.4.1",
-    "async": "^2.6.2",
+    "async": "^3.2.2",
     "axios": "^0.18.0",
     "bignumber.js": "^9.0.0",
     "browserify-zlib": "~0.1.4",
